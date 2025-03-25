@@ -1,6 +1,6 @@
 # 🛍 Next Shopify Storefront
 
-A **[Shopping Cart](https://github.com/Maxvien/next-shopify-storefront)** built with [TypeScript](https://www.typescriptlang.org), [Tailwind CSS](https://tailwindcss.com), [Headless UI](https://headlessui.com), [Next.js](https://nextjs.org), [React.js](https://react.dev), [Shopify Hydrogen React](https://shopify.dev/docs/api/hydrogen-react),... and [Shopify Storefront GraphQL API](https://shopify.dev/docs/api/storefront).
+A **[Shopping Cart]()** built with [TypeScript](https://www.typescriptlang.org), [Tailwind CSS](https://tailwindcss.com), [Headless UI](https://headlessui.com), [Next.js](https://nextjs.org), [React.js](https://react.dev), [Shopify Hydrogen React](https://shopify.dev/docs/api/hydrogen-react),... and [Shopify Storefront GraphQL API](https://shopify.dev/docs/api/storefront).
 
 
 
