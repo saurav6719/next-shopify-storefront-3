@@ -10,8 +10,6 @@ A **[Shopping Cart](https://github.com/Maxvien/next-shopify-storefront)** built 
 
 When I started this project, I had no idea how complex building a storefront could be. But step by step, I figured it out.
 
-I designed and built everything from scratch—structuring data, styling components, making sure everything loads fast. I used [GraphQL Zeus](https://github.com/graphql-editor/graphql-zeus) to talk to [Shopify’s GraphQL API](https://shopify.dev/docs/api/storefront), [Shopify Hydrogen](https://shopify.dev/docs/custom-storefronts/hydrogen-react) to power the storefront, and [Next.js](https://nextjs.org) for performance.
-
 [Tailwind CSS](https://tailwindcss.com/) and [Headless UI](https://headlessui.com/) made styling smooth. [TypeScript](https://www.typescriptlang.org/) kept everything safe and predictable. [React Use](https://github.com/streamich/react-use) Hooks sped up development. I even built [Shopify Utilities](https://www.npmjs.com/package/@maxvien/shopify) to make selecting product variants easier.
 
 Then came [SEO](https://www.npmjs.com/package/next-seo), best practices, and refining the user experience. [Swiper](https://swiperjs.com/) made touch interactions feel natural. [ESlint](https://eslint.org/) and [Prettier](https://prettier.io/) kept the code clean.
@@ -20,16 +18,13 @@ It was a process of learning, breaking things, fixing them, and refining. And in
 
 If you like this project, hit the **STAR** button to bookmark it ⭐️
 
-## Demonstration
-
-You can visit here to see the demo: https://next-shopify-storefront.vercel.app/
 
 ## Installation
 
 Clone the source code into your computer.
 
 ```bash
-git clone https://github.com/VienDinhCom/next-shopify-storefront.git
+git clone https://github.com/saurav6719/next-shopify-storefront-3
 ```
 
 **This project was developed with Node 18 and NPM 10.**<br>
@@ -50,7 +45,6 @@ First, you need to set the below environment variables in the `.env` file or you
 - `NEXT_PUBLIC_SHOPIFY_STOREFRONT_API_TOKEN`
 - `NEXT_PUBLIC_SHOPIFY_STOREFRONT_API_VERSION`
 
-You can follow the [Shopify Storefront GraphQL API](https://shopify.dev/api/storefront/getting-started) documentation to get Storefront API information.
 
 ### Develop
 
