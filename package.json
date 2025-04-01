@@ -1,13 +1,13 @@
 {
   "name": "next-shopify-storefront",
   "description": "A Shopping Cart built with TypeScript, Tailwind CSS, Headless UI, Next.js, React.js, Shopify Hydrogen React,... and Shopify Storefront GraphQL API.",
-  "repository": "https://github.com/maxvien/next-shopify-storefront.git",
+  "repository": "https://github.com/saurav6719/next-shopify-storefront-3.git",
   "version": "3.0.1",
   "license": "MIT",
   "author": {
-    "name": "Vien Dinh",
-    "email": "maxvien@gmail.com",
-    "url": "https://github.com/maxvien"
+    "name": "Saurav Kumar",
+    "email": "sauravkr485@gmail.com",
+    "url": "https://github.com/saurav6719"
   },
   "volta": {
     "node": "18.20.7",
